@@ -6,14 +6,9 @@ using System.Threading.Tasks;
 
 namespace Maze_Algorithm
 {
-    /// <summary>
-    /// See Maze Plans.txt
-    /// </summary>
-    class Program
+    class Cell
     {
-        static void Main()
-        {
 
-        }
     }
+
 }
