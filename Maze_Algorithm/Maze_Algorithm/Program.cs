@@ -13,7 +13,9 @@ namespace Maze_Algorithm
     {
         static void Main()
         {
-
+            Maze maze = new Maze();
+            maze.StartMaze();
+            Console.ReadKey();
         }
     }
 }
